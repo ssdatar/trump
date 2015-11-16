@@ -1,0 +1,52 @@
+State,Name,Amount,Past
+AK,Alaska,4.7,R
+AL,Alabama,3.6,R
+AR,Arkansas,1.6,R
+AZ,Arizona,4.1,R
+CA,California,3.5,D
+CO,Colorado,8,D
+CT,Connecticut,2.9,D
+DC,Washington DC,4.4,D
+DE,Delaware,0.9,D
+FL,Florida,7.1,D
+GA,Georgia,3.4,R
+HI,Hawaii,7,D
+IA,Iowa,4.3,D
+ID,Idaho,2.7,R
+IL,Illinois,1.8,D
+IN,Indiana,1.2,R
+KS,Kansas,2.6,R
+KY,Kentucky,1.6,R
+LA,Louisiana,5.3,R
+MA,Massachusetts,18.5,D
+MD,Maryland,2,D
+ME,Maine,1,D
+MI,Michigan,1.1,D
+MN,Minnesota,1.2,D
+MO,Missouri,0.9,R
+MS,Mississippi,4.5,R
+MT,Montana,4.8,R
+NC,North Carolina,1.3,R
+ND,North Dakota,3.3,R
+NE,Nebraska,2.9,R
+NH,New Hampshire,6,D
+NJ,New Jersey,2,D
+NM,New Mexico,1.2,D
+NV,Nevada,6.8,D
+NY,New York,3.7,D
+OH,Ohio,1.8,D
+OK,Oklahoma,3.1,R
+OR,Oregon,1.3,D
+PA,Pennsylvania,1.8,D
+RI,Rhode Island,4.2,D
+SC,South Carolina,5.7,R
+SD,South Dakota,3.6,R
+TN,Tennessee,4.9,R
+TX,Texas,5.8,R
+UT,Utah,0.9,R
+VA,Virginia,2.4,D
+VT,Vermont,0.4,D
+WA,Washington,3.1,D
+WI,Wisconsin,2.7,D
+WV,West Virginia,1.7,R
+WY,Wyoming,1.4,R
